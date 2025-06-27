@@ -1,0 +1,1 @@
+This requires Python 3.9 to run (not guaranteed to run on any other version). If you wish to build it to an exe file on windows, you will need PyInstaller as well. After installing, run the build.bat file to generate the build.
